@@ -1,2 +1,2 @@
-# pertemuan2
+# Aplikasi form hitung
 Belajar membuat form dengan Netbeans
